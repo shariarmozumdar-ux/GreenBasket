@@ -1,0 +1,6 @@
+{
+  "name": "GreenBasket - Multi-platform Organic E-commerce",
+  "description": "GreenBasket - Multi-platform organic grocery e-commerce with official store download badges for Google Play, Apple App Store, and Microsoft Store, bilingual Bengali/English support, and fast local checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
